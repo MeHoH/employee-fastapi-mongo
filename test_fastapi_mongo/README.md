@@ -1,0 +1,1 @@
+Default rout to SWAGGER: http://127.0.0.1:8000/api/openapi
